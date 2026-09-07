@@ -5,5 +5,3 @@ print("hola")
 
 def despedida():
     print("Adiós :)")
-
-print("esto es una linea para el revert")
